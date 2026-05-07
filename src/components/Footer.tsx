@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex items-center gap-2">
           <Terminal className="w-4 h-4 text-accent" />
           <span className="text-xs font-mono text-text-dim">
-            alex.chen
+            Chukwuma.Godgift
           </span>
         </div>
 
