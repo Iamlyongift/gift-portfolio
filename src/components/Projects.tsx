@@ -6,8 +6,8 @@ const projects = [
   {
     title: 'E-Commerce Microservices Platform',
     description:
-      'A scalable e-commerce backend built with Spring Boot microservices. Features include product catalog, inventory management, order processing, and payment integration with Stripe. Uses Kafka for event-driven communication between services.',
-    tech: ['Spring Boot', 'Java', 'RabbitMQ', 'PostgreSQL', 'Docker',],
+      'A scalable e-commerce backend built with Spring Boot microservices. Features include product user, product management, order processing. Uses RabbitMQ for event-driven communication between services.',
+    tech: ['Spring Boot', 'Java','Express', 'Node', 'RabbitMQ', 'PostgreSQL', 'Docker',],
     github: '#',
     live: 'null',
     featured: true,
