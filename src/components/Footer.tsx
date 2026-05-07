@@ -16,7 +16,7 @@ export default function Footer() {
         </p>
 
         <p className="text-xs text-text-dim">
-          &copy; {new Date().getFullYear()} Alex Chen. All rights reserved.
+          &copy; {new Date().getFullYear()} Lyon Gift. All rights reserved.
         </p>
       </div>
     </footer>
